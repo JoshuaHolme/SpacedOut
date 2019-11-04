@@ -1,0 +1,35 @@
+﻿<Properties StartupConfiguration="{847657C8-771A-8FDC-F920-14721F814609}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Menus/AreYouSureMenuController.cs">
+    <Files>
+      <File FileName="Assets/Scripts/Menus/MenuController.cs" Line="13" Column="11" />
+      <File FileName="Assets/Scripts/Menus/AreYouSureMenuController.cs" Line="32" Column="13" />
+      <File FileName="Assets/Scripts/Menus/TitleScreen.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="CIS464_Game" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Scripts" expanded="True">
+                <Node name="Door" expanded="True" />
+                <Node name="Enemies" expanded="True" />
+                <Node name="Menus" expanded="True">
+                  <Node name="AreYouSureMenuController.cs" selected="True" />
+                </Node>
+                <Node name="Pickups" expanded="True" />
+                <Node name="Player" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="848b860b-2df5-4bc1-ba99-fb735943679f" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
